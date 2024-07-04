@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "id": "chaitanya",
+      "password": "chaitu",
+      "name": "chaitanya bharambe",
+      "email": "chaitu@gmail.com",
+      "phone": "897473773",
+      "country": "india",
+      "gender": "male",
+      "address": "nashik"
+    },
+    {
+      "id": "manish",
+      "password": "manish",
+      "name": "manish bharambe",
+      "email": "manish@gmail.com",
+      "phone": "897473773",
+      "country": "india",
+      "gender": "male",
+      "address": "nashik"
+    },
+    {
+      "id": "Manish",
+      "password": "123",
+      "name": "Manish Patil",
+      "email": "manish@gmail.com",
+      "phone": "840955905",
+      "Country": "",
+      "gender": "male",
+      "address": "Nashik"
+    },
+    {
+      "id": "mohit",
+      "password": "123",
+      "name": "Mohitsingh deshi",
+      "email": "deshi@gmail.com",
+      "phone": "8487590083",
+      "Country": "",
+      "gender": "male",
+      "address": "Nashik"
+    },
+    {
+      "id": "mohit",
+      "password": "1234",
+      "name": "mohitsinngh perdeshi",
+      "email": "mohit@gmail.com",
+      "phone": "12232327274",
+      "Country": "",
+      "gender": "male",
+      "address": "Nashik"
+    }
+  ]
+}
